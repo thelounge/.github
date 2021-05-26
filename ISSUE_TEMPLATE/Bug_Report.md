@@ -4,7 +4,7 @@ about: Create a bug report
 
 ---
 
-<!-- Have a question? Join #thelounge on freenode -->
+<!-- Have a question? Join our IRC channel: https://thelounge.chat/community -->
 
 * *Node version:* 
 * *Browser version:* 
